@@ -14,3 +14,7 @@ Passive Aggressive algorithms are online learning algorithms. Such an algorithm 
 
 Objective<br>
 To build a model to accurately classify a piece of news as REAL or FAKE.<br><br>
+Prerequisites<br><br>
+Install Numpy<br>
+Install Pandas<br>
+
