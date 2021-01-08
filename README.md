@@ -16,5 +16,6 @@ __Objective__<br>
 To build a model to accurately classify a piece of news as REAL or FAKE.<br><br>
 __Prerequisites__<br>
 - Install Numpy<br>
-- Install Pandas<br>
+- Install Pandas<br><br>
+__Dataset used__: news.xlsb
 
